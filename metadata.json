@@ -1,0 +1,7 @@
+{
+  "name": "NIL DARK",
+  "description": "Production-ready, ultra-secure, anonymous realtime chat & WebRTC calling app with cyber stealth theme, zero-signup authentication, and verified badges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
